@@ -40,8 +40,6 @@ Levo **LLMs, RAG e agentes de IA do protótipo à produção**, de ponta a ponta
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobnow&layout=compact&langs_count=6&hide=php,html,css,hack&theme=github_dark&hide_border=true&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/jobnow/jobnow/main/github-metrics.svg" alt="Métricas do GitHub" />
-
 ### 🚀 Projetos open source em destaque
 | Projeto | O que mostra |
 |---|---|
