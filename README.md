@@ -38,7 +38,7 @@ I take **LLMs, RAG and AI agents from prototype to production**, end to end: Nod
 | [**feature-flag**](https://github.com/jobnow/feature-flag) | Open-source LaunchDarkly alternative: deterministic % rollouts, segment overrides, Redis snapshot cache, API-key runtime API, JWT admin API, Node SDK, tests and Swagger |
 | [**GastoAi**](https://github.com/jobnow/GastoAi) | AI-powered finance SaaS backend: receipt scanning pipeline (S3 presigned uploads → BullMQ workers → AI extraction → rules engine), Clean Architecture + DDD, NestJS, Prisma, Redis |
 | [**api-voucher**](https://github.com/jobnow/api-voucher) | Voucher/coupon API in NestJS with DDD, tests, Swagger and clean layering |
-| [**pluga-challenge**](https://github.com/jobnow/pluga-challenge) | Full-stack: Rails + Next.js + Docker Compose + tests |
+| [**pluga-challenge**](https://github.com/jobnow/pluga-challenge) | Full-stack app with LLM-generated summaries (OpenAI or Gemini, switchable provider): Rails API + Next.js, Docker Compose, RSpec/Jest, CI |
 
 ### 📈 Career highlights
 - **Groundzero** — Founding Engineer · AI & Platform Lead *(2023 – now)*
