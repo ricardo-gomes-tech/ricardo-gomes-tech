@@ -18,8 +18,12 @@ jobs:
           user: jobnow
           filename: github-metrics.svg
           template: classic
-          base: header, activity
+          base: header, activity, community
           config_timezone: America/Sao_Paulo
           config_display: large
           plugin_calendar: yes
           plugin_calendar_limit: 1
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, php
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
