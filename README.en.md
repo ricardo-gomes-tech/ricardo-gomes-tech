@@ -1,4 +1,4 @@
-🇧🇷 [Português](https://github.com/jobnow) · 🇺🇸 **English**   ![Profile views](https://komarev.com/ghpvc/?username=jobnow&style=flat&color=0A66C2&label=Profile+views)
+🇧🇷 [Português](https://github.com/ricardo-gomes-tech) · 🇺🇸 **English**   ![Profile views](https://komarev.com/ghpvc/?username=ricardo-gomes-tech&style=flat&color=0A66C2&label=Profile+views)
 
 # Hi, I'm Ricardo 👋
 
@@ -36,17 +36,17 @@ I take **LLMs, RAG and AI agents from prototype to production**, end to end: Nod
 
 ### 📊 GitHub stats
 <p>
-  <img height="165" src="https://streak-stats.demolab.com?user=jobnow&theme=github-dark-blue&hide_border=true&background=0d1117&hide_current_streak=true&hide_longest_streak=true" alt="Total contributions" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobnow&layout=compact&langs_count=6&hide=php,html,css,hack&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ricardo-gomes-tech&theme=github-dark-blue&hide_border=true&background=0d1117&hide_current_streak=true&hide_longest_streak=true" alt="Total contributions" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-gomes-tech&layout=compact&langs_count=6&hide=php,html,css,hack&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
 ### 🚀 Featured open source
 | Project | What it shows |
 |---|---|
-| [**feature-flag**](https://github.com/jobnow/feature-flag) | Open-source LaunchDarkly alternative: deterministic % rollouts, segment overrides, Redis snapshot cache, API-key runtime API, JWT admin API, Node SDK, tests and Swagger |
-| [**GastoAi**](https://github.com/jobnow/GastoAi) | AI-powered finance SaaS backend: receipt scanning pipeline (S3 presigned uploads → BullMQ workers → AI extraction → rules engine), Clean Architecture + DDD, NestJS, Prisma, Redis |
-| [**api-voucher**](https://github.com/jobnow/api-voucher) | Voucher/coupon API in NestJS with DDD, tests, Swagger and clean layering |
-| [**pluga-challenge**](https://github.com/jobnow/pluga-challenge) | Full-stack app with LLM-generated summaries (OpenAI or Gemini, switchable provider): Rails API + Next.js, Docker Compose, RSpec/Jest, CI |
+| [**feature-flag**](https://github.com/ricardo-gomes-tech/feature-flag) | Open-source LaunchDarkly alternative: deterministic % rollouts, segment overrides, Redis snapshot cache, API-key runtime API, JWT admin API, Node SDK, tests and Swagger |
+| [**GastoAi**](https://github.com/ricardo-gomes-tech/GastoAi) | AI-powered finance SaaS backend: receipt scanning pipeline (S3 presigned uploads → BullMQ workers → AI extraction → rules engine), Clean Architecture + DDD, NestJS, Prisma, Redis |
+| [**api-voucher**](https://github.com/ricardo-gomes-tech/api-voucher) | Voucher/coupon API in NestJS with DDD, tests, Swagger and clean layering |
+| [**pluga-challenge**](https://github.com/ricardo-gomes-tech/pluga-challenge) | Full-stack app with LLM-generated summaries (OpenAI or Gemini, switchable provider): Rails API + Next.js, Docker Compose, RSpec/Jest, CI |
 
 ### 📈 Career highlights
 - **Groundzero** — Founding Engineer · AI & Platform Lead *(2023 – now)*
