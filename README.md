@@ -1,4 +1,4 @@
-🇧🇷 **Português** · 🇺🇸 [English](https://github.com/jobnow/jobnow/blob/main/README.en.md)   ![Visitas ao perfil](https://komarev.com/ghpvc/?username=jobnow&style=flat&color=0A66C2&label=Visitas+ao+perfil)
+🇧🇷 **Português** · 🇺🇸 [English](https://github.com/ricardo-gomes-tech/ricardo-gomes-tech/blob/main/README.en.md)   ![Visitas ao perfil](https://komarev.com/ghpvc/?username=ricardo-gomes-tech&style=flat&color=0A66C2&label=Visitas+ao+perfil)
 
 # Olá, eu sou o Ricardo 👋
 
@@ -36,17 +36,17 @@ Levo **LLMs, RAG e agentes de IA do protótipo à produção**, de ponta a ponta
 
 ### 📊 Estatísticas no GitHub
 <p>
-  <img height="165" src="https://streak-stats.demolab.com?user=jobnow&theme=github-dark-blue&hide_border=true&background=0d1117&hide_current_streak=true&hide_longest_streak=true&locale=pt_BR" alt="Total de contribuições" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobnow&layout=compact&langs_count=6&hide=php,html,css,hack&theme=github_dark&hide_border=true&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ricardo-gomes-tech&theme=github-dark-blue&hide_border=true&background=0d1117&hide_current_streak=true&hide_longest_streak=true&locale=pt_BR" alt="Total de contribuições" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-gomes-tech&layout=compact&langs_count=6&hide=php,html,css,hack&theme=github_dark&hide_border=true&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 ### 🚀 Projetos open source em destaque
 | Projeto | O que mostra |
 |---|---|
-| [**feature-flag**](https://github.com/jobnow/feature-flag) | Alternativa open source ao LaunchDarkly: rollout percentual determinístico, overrides por segmento, cache de snapshots em Redis, Runtime API com API Key, Admin API com JWT, SDK Node, testes e Swagger |
-| [**GastoAi**](https://github.com/jobnow/GastoAi) | Backend SaaS de finanças com IA: pipeline de leitura de notas (upload S3 com presigned URL → workers BullMQ → extração por IA → motor de regras), Clean Architecture + DDD, NestJS, Prisma, Redis |
-| [**api-voucher**](https://github.com/jobnow/api-voucher) | API de vouchers/cupons em NestJS com DDD, testes, Swagger e camadas bem organizadas |
-| [**pluga-challenge**](https://github.com/jobnow/pluga-challenge) | App full-stack com resumos gerados por LLM (OpenAI ou Gemini, provedor configurável): API Rails + Next.js, Docker Compose, RSpec/Jest, CI |
+| [**feature-flag**](https://github.com/ricardo-gomes-tech/feature-flag) | Alternativa open source ao LaunchDarkly: rollout percentual determinístico, overrides por segmento, cache de snapshots em Redis, Runtime API com API Key, Admin API com JWT, SDK Node, testes e Swagger |
+| [**GastoAi**](https://github.com/ricardo-gomes-tech/GastoAi) | Backend SaaS de finanças com IA: pipeline de leitura de notas (upload S3 com presigned URL → workers BullMQ → extração por IA → motor de regras), Clean Architecture + DDD, NestJS, Prisma, Redis |
+| [**api-voucher**](https://github.com/ricardo-gomes-tech/api-voucher) | API de vouchers/cupons em NestJS com DDD, testes, Swagger e camadas bem organizadas |
+| [**pluga-challenge**](https://github.com/ricardo-gomes-tech/pluga-challenge) | App full-stack com resumos gerados por LLM (OpenAI ou Gemini, provedor configurável): API Rails + Next.js, Docker Compose, RSpec/Jest, CI |
 
 ### 📈 Trajetória
 - **Groundzero** — Founding Engineer · AI & Platform Lead *(2023 – atual)*
