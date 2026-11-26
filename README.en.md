@@ -40,8 +40,6 @@ I take **LLMs, RAG and AI agents from prototype to production**, end to end: Nod
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobnow&layout=compact&langs_count=6&hide=php,html,css,hack&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/jobnow/jobnow/main/github-metrics.svg" alt="GitHub metrics" />
-
 ### 🚀 Featured open source
 | Project | What it shows |
 |---|---|
