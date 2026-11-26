@@ -37,6 +37,7 @@ I take **LLMs, RAG and AI agents from prototype to production**, end to end: Nod
 ### 📊 GitHub stats
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user=jobnow&theme=github-dark-blue&hide_border=true&background=0d1117&hide_current_streak=true&hide_longest_streak=true" alt="Total contributions" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobnow&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/jobnow/jobnow/main/github-metrics.svg" alt="GitHub metrics" />
