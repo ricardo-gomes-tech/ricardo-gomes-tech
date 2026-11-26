@@ -1,3 +1,5 @@
+🇺🇸 **English** · 🇧🇷 [Português](https://github.com/jobnow/jobnow/blob/main/README.pt-BR.md)
+
 # Hi, I'm Ricardo 👋
 
 **Senior AI Engineer & Full Stack Tech Lead** · 15+ years building critical systems in fintech and healthtech (Santander, GetNet, Dasa)
